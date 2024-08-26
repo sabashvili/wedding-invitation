@@ -244,10 +244,6 @@ figure {
   position: relative;
 }
 
-#fh5co-event {
-  height: 900px !important;
-}
-
 .fh5co-bg {
   background-position: center center;
   width: 100%;
@@ -428,7 +424,7 @@ figure {
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   border-radius: 4px;
-  height: 550px;
+  height: 600px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-counter .event-wrap,
@@ -1198,7 +1194,7 @@ form label {
 }
 
 .fh5co-heading {
-  margin-bottom: 5em;
+  margin-bottom: 3em;
 }
 .fh5co-heading.fh5co-heading-sm {
   margin-bottom: 2em;
